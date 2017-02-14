@@ -1,5 +1,6 @@
 # Web_Crawler
 Simple web crawler
+
 1 . Objective
 
 I work with a simple web crawler to measure aspects of a crawl, study the
